@@ -1,3 +1,7 @@
 Hello Git
 Second line
+<<<<<<< HEAD
 Change from main
+=======
+Change from feature branch
+>>>>>>> feature-branch
